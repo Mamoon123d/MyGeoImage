@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyGeoImage</string>
+    <string name="tag_geo_info_with_image">Tag Geo Info with Image</string>
+    <string name="pick_from_camera">Pick From Camera</string>
+</resources>
